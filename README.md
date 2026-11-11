@@ -300,3 +300,6 @@ This project builds upon advancements in:
 # 📄 License
 
 This project is released under the MIT License.
+
+## Maintained by
+Vishal031004
